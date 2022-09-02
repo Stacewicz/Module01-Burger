@@ -4,4 +4,4 @@
 
 * [Демо сайта] (https://github.com/Stacewicz/Module01-Burger/blob/main/menu.html)
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://www.google.com/search?q=rfhnbyrf+%2Cehuthf&oq=rfhnbyrf+%2Cehuthf&aqs=chrome..69i57j0i13l2j0i22i30l2.7269j0j7&sourceid=chrome&ie=UTF-8#imgrc=2oL6TYANrjwP_M)
