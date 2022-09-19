@@ -4,4 +4,4 @@
 
 * [Демо сайта](https://stacewicz.github.io/Module01-Burgers/)
 
-![This is an image](https://st2.depositphotos.com/1158226/5649/i/950/depositphotos_56498493-stock-photo-closeup-of-two-homemade-burgers.jpg)
+![This is an image](https://arborio.ru/wordpress/wp-content/uploads/2017/04/burgers-2.jpg)
