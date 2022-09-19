@@ -4,4 +4,4 @@
 
 * [Демо сайта](https://stacewicz.github.io/Module01-Burgers/)
 
-![This is an image](https://arborio.ru/wordpress/wp-content/uploads/2017/04/burgers-2.jpg)
+![This is an image](https://lifehacker.ru/wp-content/uploads/2016/08/burger_1472037848.jpg)
