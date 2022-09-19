@@ -4,4 +4,4 @@
 
 * [Демо сайта](https://stacewicz.github.io/Module01-Burgers/)
 
-![This is an image](https://sitlos.ru/images/virtuemart/product/resized/IMG_8318_640x460.jpg)
+![This is an image](https://kamakura.ru/upload/iblock/690/69099d97e4c55da5ec617c9e44ecfd4f.jpg)
